@@ -6,6 +6,8 @@ layout: home
 title:"ソフトウェア工学　２０２６"
 ---
 
-#ソフトウェア工学　２０２６
+# ソフトウェア工学　２０２６
 
 git/github演習
+
+[softwareEng Lecture Notes](softwareEng2026.md)
